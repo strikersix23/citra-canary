@@ -1,4 +1,9 @@
-| Pull Request | Commit | Title | Author | Merged? |
+Due To citra Being Shutdown along with yuzu i am Archiving this Repo 
+For Nintendo I claim no rights to this code at all. I am unable to properly relicense this code.But I wish for future generatioms to experience your games in an amazing fashion. so i humbly request if wish for me to make this private please email me at strikersix23@gmail.com and i will comply with your request.
+
+Date of Archival is March 5th 2024
+
+/| Pull Request | Commit | Title | Author | Merged? |
 |----|----|----|----|----|
 | [7372](https://github.com/citra-emu/citra//pull/7372) | [`265ed7ec1`](https://github.com/citra-emu/citra//pull/7372/files) | pica_types: Correctly restrict Float<M, E> precision | [vitor-k](https://github.com/vitor-k/) | Yes |
 | [7384](https://github.com/citra-emu/citra//pull/7384) | [`20ef8e47e`](https://github.com/citra-emu/citra//pull/7384/files) | host_shaders: Remove dependency on shaderSampledImageArrayDynamicIndexing | [GPUCode](https://github.com/GPUCode/) | Yes |
