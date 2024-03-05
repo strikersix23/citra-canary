@@ -1,5 +1,5 @@
 Due To citra Being Shutdown along with yuzu i am Archiving this Repo 
-For Nintendo I claim no rights to this code at all. I am unable to properly relicense this code.But I wish for future generatioms to experience your games in an amazing fashion. so i humbly request if wish for me to make this private please email me at strikersix23@gmail.com and i will comply with your request.
+For Nintendo I claim no rights to this code at all. I am unable to properly relicense this code.But I wish for future generatioms to experience your games in an amazing fashion. so i humbly request if wish for me to make this private please contact me and i will comply with your request.
 
 Date of Archival is March 5th 2024
 
